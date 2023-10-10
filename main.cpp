@@ -151,6 +151,113 @@ That MyBag removal of all zipped by in 0.001334 milliseconds.
 That MyBag add zipped by in 4.1e-05 milliseconds.
 That MyBag removal of all zipped by in 0.011 milliseconds.
 
+TESTS AFTER SORTING AND INCOORPERATING BINARY SEARCH
+jvmcpheron@dyn-10-140-246-187 CS2_Lab5 % ./main
+That MyBag add zipped by in 0.000667 milliseconds.
+That MyBag add zipped by in 0.000209 milliseconds.
+That MyBag add zipped by in 0.00075 milliseconds.
+That MyBag add zipped by in 0.0005 milliseconds.
+That MyBag add zipped by in 0.000167 milliseconds.
+That MyBag add zipped by in 0.0005 milliseconds.
+That MyBag add zipped by in 0.000833 milliseconds.
+That MyBag add zipped by in 0.0015 milliseconds.
+That MyBag add zipped by in 0.002 milliseconds.
+That MyBag add zipped by in 0.0025 milliseconds.
+That MyBag add zipped by in 0.003542 milliseconds.
+That MyBag add zipped by in 0.004125 milliseconds.
+That MyBag add zipped by in 0.006208 milliseconds.
+That MyBag add zipped by in 0.005375 milliseconds.
+That MyBag add zipped by in 0.003833 milliseconds.
+That MyBag add zipped by in 0.007167 milliseconds.
+That MyBag add zipped by in 0.005125 milliseconds.
+That MyBag add zipped by in 0.006041 milliseconds.
+That MyBag add zipped by in 0.010125 milliseconds.
+That MyBag add zipped by in 0.014792 milliseconds.
+That MyBag add zipped by in 0.006709 milliseconds.
+That MyBag add zipped by in 0.012167 milliseconds.
+That MyBag add zipped by in 0.019625 milliseconds.
+That MyBag add zipped by in 0.01325 milliseconds.
+That MyBag add zipped by in 0.006458 milliseconds.
+That MyBag add zipped by in 0.015792 milliseconds.
+That MyBag add zipped by in 0.008042 milliseconds.
+That MyBag add zipped by in 0.009375 milliseconds.
+That MyBag add zipped by in 0.01975 milliseconds.
+That MyBag add zipped by in 0.024084 milliseconds.
+That MyBag add zipped by in 0.010375 milliseconds.
+That MyBag add zipped by in 0.012 milliseconds.
+That MyBag add zipped by in 0.0335 milliseconds.
+That MyBag add zipped by in 0.022334 milliseconds.
+That MyBag add zipped by in 0.00925 milliseconds.
+That MyBag add zipped by in 0.026167 milliseconds.
+That MyBag add zipped by in 0.011125 milliseconds.
+That MyBag add zipped by in 0.012834 milliseconds.
+That MyBag add zipped by in 0.029667 milliseconds.
+That MyBag add zipped by in 0.032583 milliseconds.
+That MyBag add zipped by in 0.013667 milliseconds.
+That MyBag add zipped by in 0.015541 milliseconds.
+That MyBag add zipped by in 0.044917 milliseconds.
+That MyBag add zipped by in 0.033667 milliseconds.
+That MyBag add zipped by in 0.012167 milliseconds.
+That MyBag add zipped by in 0.031208 milliseconds.
+That MyBag add zipped by in 0.013875 milliseconds.
+That MyBag add zipped by in 0.015709 milliseconds.
+That MyBag add zipped by in 0.038625 milliseconds.
+That MyBag add zipped by in 0.04425 milliseconds.
+That MyBag add zipped by in 0.016792 milliseconds.
+That MyBag add zipped by in 0.019 milliseconds.
+That MyBag add zipped by in 0.055083 milliseconds.
+That MyBag add zipped by in 0.040792 milliseconds.
+That MyBag add zipped by in 0.014792 milliseconds.
+That MyBag add zipped by in 0.0405 milliseconds.
+That MyBag add zipped by in 0.016834 milliseconds.
+That MyBag add zipped by in 0.018834 milliseconds.
+That MyBag add zipped by in 0.049875 milliseconds.
+That MyBag add zipped by in 0.056625 milliseconds.
+That MyBag add zipped by in 0.02 milliseconds.
+That MyBag add zipped by in 0.022416 milliseconds.
+That MyBag add zipped by in 0.064375 milliseconds.
+That MyBag add zipped by in 0.047958 milliseconds.
+That MyBag add zipped by in 0.017375 milliseconds.
+That MyBag add zipped by in 0.048041 milliseconds.
+That MyBag add zipped by in 0.019791 milliseconds.
+That MyBag add zipped by in 0.027125 milliseconds.
+That MyBag add zipped by in 0.059959 milliseconds.
+That MyBag add zipped by in 0.067667 milliseconds.
+That MyBag add zipped by in 0.025458 milliseconds.
+That MyBag add zipped by in 0.025875 milliseconds.
+That MyBag add zipped by in 0.075375 milliseconds.
+That MyBag add zipped by in 0.056833 milliseconds.
+That MyBag add zipped by in 0.020042 milliseconds.
+That MyBag add zipped by in 0.056625 milliseconds.
+That MyBag add zipped by in 0.0225 milliseconds.
+That MyBag add zipped by in 0.024833 milliseconds.
+That MyBag add zipped by in 0.068292 milliseconds.
+That MyBag add zipped by in 0.08 milliseconds.
+That MyBag add zipped by in 0.026459 milliseconds.
+That MyBag add zipped by in 0.029083 milliseconds.
+That MyBag add zipped by in 0.085667 milliseconds.
+That MyBag add zipped by in 0.066833 milliseconds.
+That MyBag add zipped by in 0.022458 milliseconds.
+That MyBag add zipped by in 0.062625 milliseconds.
+That MyBag add zipped by in 0.025125 milliseconds.
+That MyBag add zipped by in 0.027625 milliseconds.
+That MyBag add zipped by in 0.07775 milliseconds.
+That MyBag add zipped by in 0.087916 milliseconds.
+That MyBag add zipped by in 0.029667 milliseconds.
+That MyBag add zipped by in 0.032667 milliseconds.
+That MyBag add zipped by in 0.094459 milliseconds.
+That MyBag add zipped by in 0.073666 milliseconds.
+That MyBag add zipped by in 0.025375 milliseconds.
+That MyBag add zipped by in 0.068584 milliseconds.
+That MyBag add zipped by in 0.028042 milliseconds.
+That MyBag add zipped by in 0.030583 milliseconds.
+That MyBag add zipped by in 0.085625 milliseconds.
+That MyBag add zipped by in 0.096583 milliseconds.
+That MyBag add zipped by in 0.032708 milliseconds.
+That MyBag add zipped by in 0.035542 milliseconds.
+That MyBag add zipped by in 0.10375 milliseconds.
+That MyBag add zipped by in 0.0805 milliseconds.
+
 
 
 
@@ -214,35 +321,55 @@ bool MyBag_String::isEmpty() {
     return (numInBag == 0);
 }
 
-//MAKE SORTED
+//GOOD
 void MyBag_String::add(string s) {
     high_resolution_clock::time_point startTime = high_resolution_clock::now();
 
-    if ((numInBag+1) >= numAllocated) {
+    if ((numInBag + 1) >= numAllocated) {
         numAllocated *= 2;
-        string *oldStrings = bagStrings;
+        string* oldStrings = bagStrings;
         bagStrings = new string[numAllocated];
-        for (int i = 0; i < numInBag; i++){
+        for (int i = 0; i < numInBag; i++) {
             bagStrings[i] = oldStrings[i];
         }
-        delete [] oldStrings;
+        delete[] oldStrings;
     }
     bagStrings[numInBag] = s;
     numInBag++;
+
+    // Sort the bagStrings array in alphabetical order
+    sort(bagStrings, bagStrings + numInBag);
+
     high_resolution_clock::time_point stopTime = high_resolution_clock::now();
     duration<double, std::milli> timeTaken = (stopTime - startTime);
     cout << "That MyBag add zipped by in " << timeTaken.count() << " milliseconds.\n";
 }
 
-//BINARY SEARCH
+
+//GOOD
 bool MyBag_String::contains(string s) {
-    for (int i = 0; i < numInBag; i++) {
-        if (s.compare(bagStrings[i]) == 0) {
-            return true;
+
+
+    int left = 0;
+    int right = numInBag - 1;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+
+        int cmp = s.compare(bagStrings[mid]);
+
+        if (cmp == 0) {
+            return true; 
+        } else if (cmp < 0) {
+            right = mid - 1;  
+        } else {
+            left = mid + 1;  
         }
     }
-    return false;
+
+    return false;  
 }
+
 
 //GOOD
 string MyBag_String::getByIndex(int index) {
@@ -252,81 +379,120 @@ string MyBag_String::getByIndex(int index) {
     return bagStrings[index];
 }
 
-//BINARY SEARCH
+//GOOD
 int MyBag_String::getFrequencyOf(string s) {
-    high_resolution_clock::time_point startTime = high_resolution_clock::now();
+
+
+    int left = 0;
+    int right = numInBag - 1;
     int count = 0;
-    for (int i = 0; i < numInBag; i++) {
-        if (s.compare(bagStrings[i]) == 0) {
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+
+        int cmp = s.compare(bagStrings[mid]);
+
+        if (cmp == 0) {
+            // String found; increment the count
             count++;
+
+            // Check for other occurrences to the left
+            int i = mid - 1;
+            while (i >= 0 && s.compare(bagStrings[i]) == 0) {
+                count++;
+                i--;
+            }
+
+            // Check for other occurrences to the right
+            i = mid + 1;
+            while (i < numInBag && s.compare(bagStrings[i]) == 0) {
+                count++;
+                i++;
+            }
+
+            return count;
+        } else if (cmp < 0) {
+            right = mid - 1;  
+        } else {
+            left = mid + 1;  
         }
     }
-    high_resolution_clock::time_point stopTime = high_resolution_clock::now();
-    duration<double, std::milli> timeTaken = (stopTime - startTime);
-    cout << "That MyBag frequency of zipped by in " << timeTaken.count() << " milliseconds.\n";
-    return count;
+
+    return count;  // String not found
 }
 
-//BINARY SEARCH
+
+//GOOD
 bool MyBag_String::remove(string s) {
-    high_resolution_clock::time_point startTime = high_resolution_clock::now();
-    int i = 0;
-    while (i < numInBag) {
-        if (s.compare(bagStrings[i]) == 0) {
-            for (int j = i + 1; j < numInBag; j++) {
-                bagStrings[j-1] = bagStrings[j];
+
+    int left = 0;
+    int right = numInBag - 1;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+
+        int cmp = s.compare(bagStrings[mid]);
+
+        if (cmp == 0) {
+            // String found at index mid; remove it efficiently
+            for (int i = mid; i < numInBag - 1; i++) {
+                bagStrings[i] = bagStrings[i + 1];
             }
             numInBag--;
-            high_resolution_clock::time_point stopTime = high_resolution_clock::now();
-            duration<double, std::milli> timeTaken = (stopTime - startTime);
-            cout << "That MyBag removal zipped by in " << timeTaken.count() << " milliseconds.\n";
             return true;
+        } else if (cmp < 0) {
+            right = mid - 1;  
+        } else {
+            left = mid + 1;  
         }
-        i++;
     }
-    high_resolution_clock::time_point stopTime = high_resolution_clock::now();
-    duration<double, std::milli> timeTaken = (stopTime - startTime);
-    cout << "That MyBag removal zipped by in " << timeTaken.count() << " milliseconds.\n";
-    return false;
+
+    return false;  // String not found
 }
 
 
-//BINARY SEARCH
+
+//GOOD
 int MyBag_String::removeAll(string s) {
-    high_resolution_clock::time_point startTime = high_resolution_clock::now();
+    // Ensure that bagStrings is sorted in alphabetical order
+    sort(bagStrings, bagStrings + numInBag);
+
+    int left = 0;
+    int right = numInBag - 1;
     int numRemoved = 0;
-    int i = 0;
-    while ((i < numInBag) && (s.compare(bagStrings[i]) != 0)) {
-        i++;
-    }
-    if (i < numInBag) {
-        int numRemoved = 1;
-        int j = i;
-        i++;
-    while (i < numInBag) {
-        if (s.compare(bagStrings[i]) != 0) {
-            bagStrings[j] = bagStrings[i];
-            j++;
-            i++;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+
+        int cmp = s.compare(bagStrings[mid]);
+
+        if (cmp == 0) {
+            // String found at index mid; remove all occurrences efficiently
+            int j = mid;
+            while (j < numInBag - 1 && s.compare(bagStrings[j + 1]) == 0) {
+                j++;
+            }
+
+            // Shift elements to remove all occurrences
+            for (int i = j + 1; i < numInBag; i++) {
+                bagStrings[i - (j - mid + 1)] = bagStrings[i];
+            }
+
+            numInBag -= (j - mid + 1);
+            numRemoved += (j - mid + 1);
+
+            // Update search range for binary search
+            right -= (j - mid + 1);
+        } else if (cmp < 0) {
+            right = mid - 1;  // Search the left half
+        } else {
+            left = mid + 1;  // Search the right half
         }
-        else {
-            numRemoved++;
-            i++;
-        }
     }
-    numInBag = j;
-    high_resolution_clock::time_point stopTime = high_resolution_clock::now();
-    duration<double, std::milli> timeTaken = (stopTime - startTime);
-    cout << "That MyBag removal of all zipped by in " << timeTaken.count() << " milliseconds.\n";
+
     return numRemoved;
-    }
-    else {
-    high_resolution_clock::time_point stopTime = high_resolution_clock::now();
-    duration<double, std::milli> timeTaken = (stopTime - startTime);
-    cout << "That MyBag removal of all zipped by in " << timeTaken.count() << " milliseconds.\n";
-    return 0;
-    }
 }
+
 
 //GOOD
 void MyBag_String::showBagContents() {
